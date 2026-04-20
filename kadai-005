@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>5章課題</title>
+  <meta name="description" content="このページは5章の課題です。">
+  <meta charset="UTF-8">
+</head>
+<body>
+  <h1>私の趣味</h1>
+  <p>私は中学時代にサッカーを始めました。<br>
+    現在はサッカーのコーチとして活動をして、趣味のサッカーを楽しんでいます。
+  </p>
+<img src="/Users/tomonobumasaya/Library/Containers/com.apple.Preview/Data/tmp/VKTemp/B4792C7D-5063-48D7-9A0E-28297D1965C9/画像.png"alt="サッカーの画像">
+  <a href="https://x.com/samuraijuku">私のプロフィールはこちら</a>
+</body>
+</html>
